@@ -13,6 +13,6 @@ Now we will work with diferent branchs for this repository
 
 
 
-Test main1
+Test main repository1
 
-Test main2
+Test main repository2
